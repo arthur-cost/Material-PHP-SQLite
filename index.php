@@ -24,7 +24,8 @@
     $Nome="Bete";
     echo "<br>$Nome tem <br>o valor $valor";
     var_dump($Nome);  
-    
+
+
     //Alfredo Maciel tem
     // o valor de 123456
     
