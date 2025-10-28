@@ -6,4 +6,5 @@ $c=200;
 $d=($a<=$b) ? "Verdadeiro" : "Falso"; // operador ternário
 $e=($a>=$c) ? "Verdadeiro" : "Falso";
 echo "d = $d<br>e = $e";
+
 ?>
