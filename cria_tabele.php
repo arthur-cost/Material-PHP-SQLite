@@ -10,4 +10,5 @@ data date)";
 $pdo->exec($query);
 echo "Tabela criada com sucesso!";
 $pdo = null;//encerra a conexão com banco de dados
+
 ?>
