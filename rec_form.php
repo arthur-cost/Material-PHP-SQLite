@@ -9,4 +9,5 @@ $cript=md5($senha);
 echo "Usuario: $user<br>";
 echo "Senha: $senha<br>";
 // echo "email: $email<br>";
+
 ?>
