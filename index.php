@@ -2,7 +2,7 @@
   <head>
     <title>PHP Test</title>
   </head>
-  
+
   <body>
     <!-- comentário em HTML -->
     <?php 
